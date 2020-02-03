@@ -7,3 +7,5 @@ Install packages: numpy, opencv
 
 ### Run
 ### `python3 detector.py <img1> <img2> ...`
+or
+### `python detector.py <img1> <img2> ...`

@@ -6,4 +6,4 @@ Install packages: numpy, opencv
 ### `conda install opencv`
 
 ### Run
-### `python3 detector.py \<img1\> \<img2\> ...`
+### `python3 detector.py <img1> <img2> ...`

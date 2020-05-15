@@ -10,4 +10,4 @@ Install packages: numpy, opencv
 or
 ### `python detector.py <img1> <img2> ...`
 
-The program will output a '1' if flare lensing is detected or a '0' if no flare lensing is detected.
+The program will output a '1' if flare lensing is detected or a '0' if no flare lensing is detected in the order the images are read in.
